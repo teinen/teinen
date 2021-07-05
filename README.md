@@ -1,16 +1,29 @@
-### Hi there 👋
+# Introduction 🚄
 
-<!--
-**teinen/teinen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm Akira Kanno, 28 years old
+- Working at RakSul as a frontend developer
+- Recently I'm interested in Design, Illustration, 3DCG 👍
 
-Here are some ideas to get you started:
+# Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Good at...
+
+- JavaScript
+- TypeScript
+- Vue.js
+- Nuxt.js
+- GraphQL
+- CSS(Sass, PostCSS...)
+
+## Decent...
+
+- React.js
+- Ruby
+- Python
+- Java
+
+# GitHub Activities
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=teinen&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&count_private=true&include_all_commits=true)
+
+![My top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teinen&theme=dracula&layout=compact&langs_count=10)
