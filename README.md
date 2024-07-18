@@ -1,26 +1,7 @@
 # Introduction 🚄
 
-- I'm Akira Kanno, 28 years old
-- Working at RakSul as a frontend developer
-- Recently I'm interested in Design, Illustration, 3DCG 👍
-
-# Skills
-
-## Good at...
-
-- JavaScript
-- TypeScript
-- Vue.js
-- Nuxt.js
-- GraphQL
-- CSS(Sass, PostCSS...)
-
-## Decent...
-
-- React.js
-- Ruby
-- Python
-- Java
+- name: Akira Kanno
+- Working as a Web developer
 
 # GitHub Activities
 
